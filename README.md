@@ -28,7 +28,7 @@ NOTE: This program only covers the northbound stations of the mainline, with Tut
 
 - **Strings (`str`):** Handles passenger names, station titles, and input sanitization methods (`.strip()`, `.title()`).
 - **Lists (`list`):** Stores ordered station listings (`STATIONS`) to enable numerical indexing without complex conditional branching.
-- **Tuples (`tuple`):** Encapsulates immutable route pairs `("Tutuban", dest_name)` and static train service descriptions.
+- **Tuples (`tuple`):** Encapsulates immutable pairs for static train service descriptions.
 - **Dictionaries (`dict`):** Serves as the primary database (`tix`) mapping passenger names to their respective ticket details.
 
 ---
