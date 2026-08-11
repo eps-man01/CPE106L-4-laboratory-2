@@ -1,4 +1,4 @@
-# CPE106L - Laboratory Activity 2: Strings, Lists, Tuples, and Dictionaries
+# CPE106L-4 - Laboratory Activity 2: Strings, Lists, Tuples, and Dictionaries
 
 An interactive Python command-line application simulating a North-South Commuter Railway (NSCR) ticket vending machine at Tutuban Station. This project demonstrates core CRUD operations using Python's fundamental data structures.
 
